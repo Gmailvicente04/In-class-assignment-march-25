@@ -14,4 +14,5 @@ async function displayPosts() {
         container.innerHTML = `<p style="color:red;">Failed to load posts: 
         ${error.message}</p>`;
     }
-    }                                       
+    }     
+    
